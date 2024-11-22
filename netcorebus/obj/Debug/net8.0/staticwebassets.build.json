@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZJ3x/nZ7bhX0vggGeQM3IEb/bD/kS+LILxyjeNe86PM=",
+  "Source": "netcorebus",
+  "BasePath": "_content/netcorebus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

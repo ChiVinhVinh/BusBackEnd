@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\models\\lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\models\\lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\controllers\\lichtrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\controllers\\lichtrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\controllers\\vecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\controllers\\vecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\models\\tuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\models\\tuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\models\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\models\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\models\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\models\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|c:\\users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\netcorebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEC13C43-D873-4192-BF1A-8CD6D454553C}|netcorebus\\netcorebus.csproj|solutionrelative:netcorebus\\netcorebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lichtrinhController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\lichtrinhController.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Controllers\\lichtrinhController.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\lichtrinhController.cs",
+              "RelativeToolTip": "netcorebus\\Controllers\\lichtrinhController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:28:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ve.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Ve.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Models\\Ve.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Ve.cs",
+              "RelativeToolTip": "netcorebus\\Models\\Ve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:22:44.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\VeController.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Controllers\\VeController.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\VeController.cs",
+              "RelativeToolTip": "netcorebus\\Controllers\\VeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:10:38.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tuyen.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Tuyen.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Models\\Tuyen.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Tuyen.cs",
+              "RelativeToolTip": "netcorebus\\Models\\Tuyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:12:58.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Models\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\SearchRequest.cs",
+              "RelativeToolTip": "netcorebus\\Models\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:23:47.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LichTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\LichTrinh.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Models\\LichTrinh.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\LichTrinh.cs",
+              "RelativeToolTip": "netcorebus\\Models\\LichTrinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:22:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "netcorebus\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Properties\\launchSettings.json",
+              "RelativeToolTip": "netcorebus\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T18:04:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Xe.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Models\\Xe.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Models\\Xe.cs",
+              "RelativeToolTip": "netcorebus\\Models\\Xe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:16:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Program.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Program.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Program.cs",
+              "RelativeToolTip": "netcorebus\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABSwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:52:24.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "netcorebus\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "netcorebus\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:36:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\appsettings.json",
+              "RelativeDocumentMoniker": "netcorebus\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\appsettings.json",
+              "RelativeToolTip": "netcorebus\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T15:35:05.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "netcorebus.csproj",
+              "DocumentMoniker": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\netcorebus.csproj",
+              "RelativeDocumentMoniker": "netcorebus\\netcorebus.csproj",
+              "ToolTip": "C:\\Users\\vinhv\\source\\repos\\netcorebus\\netcorebus\\netcorebus.csproj",
+              "RelativeToolTip": "netcorebus\\netcorebus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T15:22:14.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
