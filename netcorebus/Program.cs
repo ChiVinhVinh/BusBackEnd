@@ -9,7 +9,10 @@ builder.Services.AddSingleton<IMongoClient, MongoClient>(_ =>
     var connectionString = "mongodb://localhost:27017"; 
     return new MongoClient(connectionString);
 });
-
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.PropertyNamingPolicy = null; 
+});
 builder.Services.AddSingleton(serviceProvider =>
 {
     var client = serviceProvider.GetRequiredService<IMongoClient>();

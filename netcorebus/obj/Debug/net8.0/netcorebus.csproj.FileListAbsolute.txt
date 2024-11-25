@@ -36,3 +36,6 @@ C:\Users\vinhv\source\repos\netcorebus\netcorebus\obj\Debug\net8.0\refint\netcor
 C:\Users\vinhv\source\repos\netcorebus\netcorebus\obj\Debug\net8.0\netcorebus.pdb
 C:\Users\vinhv\source\repos\netcorebus\netcorebus\obj\Debug\net8.0\netcorebus.genruntimeconfig.cache
 C:\Users\vinhv\source\repos\netcorebus\netcorebus\obj\Debug\net8.0\ref\netcorebus.dll
+C:\Users\vinhv\source\repos\netcorebus\netcorebus\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vinhv\source\repos\netcorebus\netcorebus\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vinhv\source\repos\netcorebus\netcorebus\obj\Debug\net8.0\netcorebus.sourcelink.json

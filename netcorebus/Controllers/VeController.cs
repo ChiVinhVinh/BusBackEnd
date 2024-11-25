@@ -16,9 +16,9 @@ namespace netcorebus.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateVe([FromBody] Ve Ve)
         {
+            Console.WriteLine(Ve);
             await _veCollection.InsertOneAsync(Ve);
             return Ok(Ve);
         }
-        
     }
 }
